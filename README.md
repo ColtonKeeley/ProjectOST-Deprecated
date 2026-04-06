@@ -1,8 +1,10 @@
 ![TierBanner](https://github.com/user-attachments/assets/bf05d53f-bb8e-4571-9762-e61778cecac7)
 # Project OST 🚀 | [Video Guide](https://www.youtube.com/watch?v=q2OvY_Gq5Bk&t=405s) | [Discord Server](https://discord.gg/R87aPX78Fa)
 
+# PROJECT-OST was a passion project of mine. Many parts are broken now. I will make a V2 someday when I find motivation again. 
+
 #### 0.4.0-unstable
-ProjectOST is a comprehensive kit built in the Verse programming language that emphasizes proper Object-Oriented programming interfaces. It allows users to easily create their own purchasable items, such as computers or any other custom devices, by simply adding one file.
+ProjectOST was a comprehensive kit built in the Verse programming language that emphasizes proper Object-Oriented programming interfaces. It allows users to easily create their own purchasable items, such as computers or any other custom devices, by simply adding one file.
 
 
 
@@ -127,7 +129,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 
 ## License
-Distributed under the GPL 3.0 License. See LICENSE for more information.
+MIT License
 
-## Acknowledgments
-- Left empty (for now)
+## Sign Off & Acknowledgement of
+- The whole UEFN community for supporting me on my journey in the space. Paperly, Bob, Techy, Rubique, Rajan, Pixelated and hundreds of others. 
+- I grew up with the creative community. Starting at age 10, to joing a team at 12, then working till now at 17 where I said good bye to you all. 
+- Feel free to reach out to me at: Tsar@guesswhat.gg, Colton@coltonkeeley.com or my discord, tsarry I always love to chat. 
