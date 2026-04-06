@@ -6,8 +6,9 @@
 
 |  Version | Supported          |
 |  ------- | ------------------ |
-|  0.4.0   | :white_check_mark: |
-|  0.3.6   | :white_check_mark: |
+|  1.0.0 Experimental (paid, private)   | ✔️|
+|  0.4.0   | :x: |
+|  0.3.6   | :x:  |
 |  0.3.5   | :x:                |
 |  0.3.2   | :x:  |
 |  0.3.0   | :x:  |
